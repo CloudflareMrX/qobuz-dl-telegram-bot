@@ -7,8 +7,7 @@ LOGGER = logging.getLogger(__name__)
 class Config(object):
     APP_ID = 21712687
     API_HASH = "397ff79e47bafe94c6609f68c5a8e7f5"
-    BOT_TOKEN = "6842307779:AAFZAclKkOA5aILTmvM1oVAMHO4PJtUNmOM
-"
+    BOT_TOKEN = "6842307779:AAFZAclKkOA5aILTmvM1oVAMHO4PJtUNmOM"
     BOT_USERNAME = "Nandumrxrips"
     OWNER_ID = 5960644989
     AUTH_IDS = []
