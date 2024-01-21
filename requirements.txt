@@ -4,3 +4,4 @@ requests
 qobuz-dl
 psutil
 heroku3
+gunicorn==19.7.1
